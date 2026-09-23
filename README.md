@@ -49,6 +49,5 @@ python -m venv .venv
 | 文件 | 说明 |
 |------|------|
 | `phase_finder.py` | 主程序 |
-| `phase_index.db` | 体系索引库（可选随仓库分发） |
-| `docs/screenshot-gui.png` | 界面截图 |
-| `GITHUB.md` | GitHub 名称/描述/上传清单 |
+| `phase_index.db` | 体系索引库 |
+| `screenshot-gui.png` | 界面截图 |
