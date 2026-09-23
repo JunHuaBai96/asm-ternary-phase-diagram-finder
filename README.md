@@ -21,7 +21,7 @@ Windows 安装包已发布在本仓库的 **Releases** 页面，一般用户直�
 
 ## 界面
 
-![ASM 1995 三元实验相图检索与阅览界面](docs/screenshot-gui.png)
+<img width="1024" height="651" alt="screenshot-gui" src="https://github.com/user-attachments/assets/c088a847-ecef-4df0-9565-2e229b3f9df6" />
 
 - **左侧**：相图阅览区，显示当前选中的实验相图
 - **右侧**：材料 1 / 2 / 3 组分下拉选择、快速输入、`显示相图`、结果列表（同一体系若有多张图可切换）
