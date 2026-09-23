@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Build / installer outputs
+build/
+dist/
+dist_installer/
+*.egg-info/
+
+# ASM copyrighted diagram scans — do NOT push to public GitHub
+IMAGES/
+
+# Local / temp
+_preview_*.png
+_samples/
+DATALOGO.BMP
+
+# Optional: uncomment to keep index private
+# phase_index.db
